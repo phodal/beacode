@@ -1,0 +1,2 @@
+# beacode
+Beautiful Code
